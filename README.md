@@ -65,7 +65,7 @@ I’m a passionate developer who loves technology and its endless growth potenti
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat&logo=swagger&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-3E6B8E?style=flat&logo=grpc&logoColor=white)
 
-**🔗 Microservices & Messaging:**
+### 🔗 Microservices & Messaging:
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Message Brokers](https://img.shields.io/badge/-Message%20Brokers-6E6E6E?style=flat)
